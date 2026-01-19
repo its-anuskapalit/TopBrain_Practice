@@ -8,24 +8,26 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SACHIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Anuska Palit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\32_multiplicationtable\\MultiplicationTable.csproj",
+      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
       "projectName": "MultiplicationTable",
-      "projectPath": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\32_multiplicationtable\\MultiplicationTable.csproj",
-      "packagesPath": "C:\\Users\\SACHIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\32_multiplicationtable\\obj\\",
+      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
+      "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SACHIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

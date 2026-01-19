@@ -1,0 +1,15 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\bin\Debug\net10.0\11_InventoryCleanup.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\bin\Debug\net10.0\11_InventoryCleanup.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\bin\Debug\net10.0\11_InventoryCleanup.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\bin\Debug\net10.0\11_InventoryCleanup.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\bin\Debug\net10.0\11_InventoryCleanup.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.sourcelink.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\refint\11_InventoryCleanup.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\11_InventoryCleanup.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\11_InventoryCleanup\obj\Debug\net10.0\ref\11_InventoryCleanup.dll

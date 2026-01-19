@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\33_Swapping\\33_Swapping.csproj",
+      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\3_Swapping\\33_Swapping.csproj",
       "projectName": "33_Swapping",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\33_Swapping\\33_Swapping.csproj",
+      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\3_Swapping\\33_Swapping.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\33_Swapping\\obj\\",
+      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\3_Swapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

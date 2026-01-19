@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\34_stringformat\\StringFormat.csproj": {}
+    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\34_stringformat\\StringFormat.csproj": {
+    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\34_stringformat\\StringFormat.csproj",
+        "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
         "projectName": "StringFormat",
-        "projectPath": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\34_stringformat\\StringFormat.csproj",
-        "packagesPath": "C:\\Users\\SACHIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SACHIN\\Desktop\\.NET\\topbrains\\34_stringformat\\obj\\",
+        "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
+        "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SACHIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

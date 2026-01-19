@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\9_C#Program\\9_C#Program.csproj": {}
+    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\9_C#Program\\9_C#Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\9_C#Program\\9_C#Program.csproj": {
+    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\9_C#Program\\9_C#Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\9_C#Program\\9_C#Program.csproj",
+        "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\9_C#Program\\9_C#Program.csproj",
         "projectName": "9_C#Program",
-        "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\9_C#Program\\9_C#Program.csproj",
+        "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\9_C#Program\\9_C#Program.csproj",
         "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\9_C#Program\\obj\\",
+        "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\9_C#Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

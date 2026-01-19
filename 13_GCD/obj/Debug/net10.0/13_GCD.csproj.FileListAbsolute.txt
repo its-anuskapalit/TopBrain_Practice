@@ -1,0 +1,15 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\bin\Debug\net10.0\13_GCD.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\bin\Debug\net10.0\13_GCD.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\bin\Debug\net10.0\13_GCD.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\bin\Debug\net10.0\13_GCD.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\bin\Debug\net10.0\13_GCD.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.sourcelink.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\refint\13_GCD.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\13_GCD.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\13_GCD\obj\Debug\net10.0\ref\13_GCD.dll

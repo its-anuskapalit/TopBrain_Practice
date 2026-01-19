@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\35_Arithmetic_Expressions\\35_Arithmetic_Expressions.csproj",
+      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\5_Arithmetic_Expressions\\35_Arithmetic_Expressions.csproj",
       "projectName": "35_Arithmetic_Expressions",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\35_Arithmetic_Expressions\\35_Arithmetic_Expressions.csproj",
+      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\5_Arithmetic_Expressions\\35_Arithmetic_Expressions.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrains\\35_Arithmetic_Expressions\\obj\\",
+      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\5_Arithmetic_Expressions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

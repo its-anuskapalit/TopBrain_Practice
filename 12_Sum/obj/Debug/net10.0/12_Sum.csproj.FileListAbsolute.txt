@@ -1,0 +1,15 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\bin\Debug\net10.0\12_Sum.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\bin\Debug\net10.0\12_Sum.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\bin\Debug\net10.0\12_Sum.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\bin\Debug\net10.0\12_Sum.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\bin\Debug\net10.0\12_Sum.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.sourcelink.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\refint\12_Sum.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\12_Sum.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\12_Sum\obj\Debug\net10.0\ref\12_Sum.dll
