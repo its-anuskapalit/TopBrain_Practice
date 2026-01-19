@@ -1,0 +1,14 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\bin\Debug\net10.0\Programming_31.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\bin\Debug\net10.0\Programming_31.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\bin\Debug\net10.0\Programming_31.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\bin\Debug\net10.0\Programming_31.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\bin\Debug\net10.0\Programming_31.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\refint\Programming_31.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\Programming_31.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\31_Programming\obj\Debug\net10.0\ref\Programming_31.dll

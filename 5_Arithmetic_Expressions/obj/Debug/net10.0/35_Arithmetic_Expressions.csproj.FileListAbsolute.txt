@@ -1,0 +1,14 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\bin\Debug\net10.0\35_Arithmetic_Expressions.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\bin\Debug\net10.0\35_Arithmetic_Expressions.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\bin\Debug\net10.0\35_Arithmetic_Expressions.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\bin\Debug\net10.0\35_Arithmetic_Expressions.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\bin\Debug\net10.0\35_Arithmetic_Expressions.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\refint\35_Arithmetic_Expressions.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\35_Arithmetic_Expressions.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\35_Arithmetic_Expressions\obj\Debug\net10.0\ref\35_Arithmetic_Expressions.dll

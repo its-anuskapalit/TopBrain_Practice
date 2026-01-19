@@ -1,0 +1,14 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\bin\Debug\net10.0\33_Swapping.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\bin\Debug\net10.0\33_Swapping.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\bin\Debug\net10.0\33_Swapping.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\bin\Debug\net10.0\33_Swapping.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\bin\Debug\net10.0\33_Swapping.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\refint\33_Swapping.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\33_Swapping.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\33_Swapping\obj\Debug\net10.0\ref\33_Swapping.dll

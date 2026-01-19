@@ -1,0 +1,15 @@
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\bin\Debug\net10.0\6_LargestInteger.exe
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\bin\Debug\net10.0\6_LargestInteger.deps.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\bin\Debug\net10.0\6_LargestInteger.runtimeconfig.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\bin\Debug\net10.0\6_LargestInteger.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\bin\Debug\net10.0\6_LargestInteger.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.AssemblyInfoInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.AssemblyInfo.cs
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.sourcelink.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\refint\6_LargestInteger.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\6_LargestInteger.genruntimeconfig.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\6_largestInteger\obj\Debug\net10.0\ref\6_LargestInteger.dll

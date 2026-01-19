@@ -1,0 +1,14 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\bin\Debug\net10.0\9_C#Program.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\bin\Debug\net10.0\9_C#Program.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\bin\Debug\net10.0\9_C#Program.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\bin\Debug\net10.0\9_C#Program.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\bin\Debug\net10.0\9_C#Program.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\refint\9_C#Program.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\9_C#Program.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrains\9_C#Program\obj\Debug\net10.0\ref\9_C#Program.dll

@@ -1,0 +1,15 @@
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\bin\Debug\net10.0\8_BankTransaction.exe
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\bin\Debug\net10.0\8_BankTransaction.deps.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\bin\Debug\net10.0\8_BankTransaction.runtimeconfig.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\bin\Debug\net10.0\8_BankTransaction.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\bin\Debug\net10.0\8_BankTransaction.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.AssemblyInfoInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.AssemblyInfo.cs
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.sourcelink.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\refint\8_BankTransaction.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\8_BankTransaction.genruntimeconfig.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\8_banktransaction\obj\Debug\net10.0\ref\8_BankTransaction.dll

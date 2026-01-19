@@ -1,0 +1,15 @@
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.AssemblyInfoInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.AssemblyInfo.cs
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.sourcelink.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\bin\Debug\net10.0\StringFormat.exe
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\bin\Debug\net10.0\StringFormat.deps.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\bin\Debug\net10.0\StringFormat.runtimeconfig.json
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\bin\Debug\net10.0\StringFormat.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\bin\Debug\net10.0\StringFormat.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\refint\StringFormat.dll
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.pdb
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\StringFormat.genruntimeconfig.cache
+C:\Users\SACHIN\Desktop\.NET\topbrains\34_stringformat\obj\Debug\net10.0\ref\StringFormat.dll
