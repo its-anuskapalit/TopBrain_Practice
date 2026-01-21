@@ -1,0 +1,15 @@
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\bin\Debug\net10.0\15_NullAvg.exe
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\bin\Debug\net10.0\15_NullAvg.deps.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\bin\Debug\net10.0\15_NullAvg.runtimeconfig.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\bin\Debug\net10.0\15_NullAvg.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\bin\Debug\net10.0\15_NullAvg.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.AssemblyInfoInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.AssemblyInfo.cs
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.csproj.CoreCompileInputs.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.sourcelink.json
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\refint\15_NullAvg.dll
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.pdb
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\15_NullAvg.genruntimeconfig.cache
+C:\Users\Anuska Palit\OneDrive\Desktop\TopBrain_Practice\15_NullAvg\obj\Debug\net10.0\ref\15_NullAvg.dll
