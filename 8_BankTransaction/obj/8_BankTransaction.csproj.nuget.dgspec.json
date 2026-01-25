@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj": {}
+    "D:\\Anuska\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj": {
+    "D:\\Anuska\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj",
+        "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj",
         "projectName": "8_BankTransaction",
-        "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj",
+        "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\8_BankTransaction\\8_BankTransaction.csproj",
         "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\8_BankTransaction\\obj\\",
+        "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\8_BankTransaction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

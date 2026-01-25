@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\7_DisplatHeight.csproj",
+      "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\7_DisplatHeight.csproj",
       "projectName": "7_DisplatHeight",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\7_DisplatHeight.csproj",
+      "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\7_DisplatHeight.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\obj\\",
+      "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\7_DisplatHeight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

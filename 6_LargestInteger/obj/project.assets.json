@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\6_LargestInteger\\6_LargestInteger.csproj",
+      "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\6_LargestInteger\\6_LargestInteger.csproj",
       "projectName": "6_LargestInteger",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\6_LargestInteger\\6_LargestInteger.csproj",
+      "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\6_LargestInteger\\6_LargestInteger.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\6_LargestInteger\\obj\\",
+      "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\6_LargestInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

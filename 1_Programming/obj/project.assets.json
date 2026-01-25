@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\1_Programming\\Programming_31.csproj",
+      "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\1_Programming\\Programming_31.csproj",
       "projectName": "Programming_31",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\1_Programming\\Programming_31.csproj",
+      "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\1_Programming\\Programming_31.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\1_Programming\\obj\\",
+      "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\1_Programming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

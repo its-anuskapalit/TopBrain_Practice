@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {}
+    "D:\\Anuska\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {
+    "D:\\Anuska\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
+        "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
         "projectName": "StringFormat",
-        "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
+        "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\4_StringFormat\\StringFormat.csproj",
         "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\4_StringFormat\\obj\\",
+        "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\4_StringFormat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",

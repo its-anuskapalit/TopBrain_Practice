@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
+      "projectUniqueName": "D:\\Anuska\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
       "projectName": "MultiplicationTable",
-      "projectPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
+      "projectPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\Anuska Palit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anuska Palit\\OneDrive\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\obj\\",
+      "outputPath": "D:\\Anuska\\Desktop\\TopBrain_Practice\\2_MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuska Palit\\AppData\\Roaming\\NuGet\\NuGet.Config",
